@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+}
+.neirong{
+	width: 1000px;
+	height: 886px;
+	margin: auto;
+}
+.neirong>ul{
+	list-style: none;
+	margin: 15px 0;
+	margin-left: 41%;
+	font-size: 20px;
+}
+.neirong>p>a{
+	text-decoration: none;
+	color: black;
+	font-size: 12px;
+}
+.neirong_tu1{
+	width: 495px;
+	height: 110px;
+	margin:10px auto;
+}
+.neirong_tu1_1>ul{
+	width: 500px;
+    height: 100px;
+	list-style: none;
+}
+.neirong_tu1_1>ul>li{
+	margin-left: 5px;
+	float: left;
+	width: 84px;
+	height: 80px;
+	margin-top: 7px;
+	background: url(../img/ico_none.gif);
+}
+.neirong_tu1_1>ul>li>div{
+	width: 79px;
+	height: 59px;
+	background: url(../img/tu1-1.jpg);
+	background-size: contain;
+	margin:2px 2px;
+	position: relative;
+}
+.neirong_tu1_1>ul>li>div>p{
+	margin-top: 42px;
+	position: absolute;
+	width: 40px;
+	background: black;
+	color: white;
+}
+.neirong_tu1_1>ul>li:hover{
+	background: url(../img/ico_bg.gif);
+}
+.neirong_tu1_1>ul>li:nth-child(1){
+	width: 17px;
+    height: 53px;
+	margin-top: 18px;
+	background: none;
+}
+.neirong_tu1_1>ul>li:nth-child(7){
+	width: 17px;
+    height: 53px;
+	margin-top: 18px;
+	background: none;
+}
+.neirong_tu2{
+	width: 600px;
+	height: 600px;
+	margin: auto;
+	background: url(../img/2013041059148313.jpg);
+}
+
